@@ -1,0 +1,41 @@
+<html>
+<head>
+  <title>D3 Test</title>
+  <script src="https://d3js.org/d3.v4.js"></script>
+</head>
+<body>
+  <script>
+    d3.json("https://rodolfoferro.github.io/cv/test_data.json", function (data_file) {
+
+      var width = 500;
+      var height = 500;
+
+      var canvas = d3.select("body")
+                    .append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
+
+      canvas.selectAll("rect")
+            .data(data_file)
+            .enter()
+                .append("rect")
+                .attr("width", function (d) { return d.age * 10; } )
+                .attr("height", 50)
+                .attr("y", function (d, i) { return i * 52; } )
+                .attr("fill", "blue");
+
+      canvas.selectAll("text")
+            .data(data_file)
+            .enter()
+                .append("text")
+                .attr("y", function (d, i) { return i * 50 + 20; } )
+                .attr("fill", "white")
+                .text(function (d) { return d.name; } );
+
+    });
+
+
+
+  </script>
+</body>
+</html>
