@@ -7,8 +7,7 @@
 			{
 				"name": "b'TERAPIA OCUPACIONAL'",
 				"size": 2
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'FISICA'",
 			"children": [
@@ -79,8 +78,7 @@
 			{
 				"name": "b'OPTICA'",
 				"size": 394
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'MATEMATICAS'",
 			"children": [
@@ -143,8 +141,7 @@
 			{
 				"name": "b'SISTEMAS'",
 				"size": 82
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'DEMOGRAFIA'",
 			"children": [
@@ -187,8 +184,7 @@
 			{
 				"name": "b'DEMOGRAFIA GENERAL'",
 				"size": 9
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'ARTES Y LETRAS'",
 			"children": [
@@ -211,8 +207,7 @@
 			{
 				"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ARTES Y LETRAS'",
 				"size": 60
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'SOCIOLOGIA'",
 			"children": [
@@ -275,8 +270,7 @@
 			{
 				"name": "b'SOCIOLOGIA CULTURAL'",
 				"size": 110
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'LOGICA'",
 			"children": [
@@ -291,8 +285,7 @@
 			{
 				"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE LOGICA'",
 				"size": 3
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS ECONOMICAS'",
 			"children": [
@@ -355,8 +348,7 @@
 			{
 				"name": "b'SISTEMAS ECONOMICOS'",
 				"size": 11
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'ANTROPOLOGIA'",
 			"children": [
@@ -383,8 +375,7 @@
 			{
 				"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ANTROPOLOGIA'",
 				"size": 163
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS POLITICAS'",
 			"children": [
@@ -439,8 +430,7 @@
 			{
 				"name": "b'RELACIONES INTERNACIONALES'",
 				"size": 134
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'ETICA'",
 			"children": [
@@ -467,8 +457,7 @@
 			{
 				"name": "b'ETICA CLASICA'",
 				"size": 3
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'QUIMICA'",
 			"children": [
@@ -519,8 +508,7 @@
 			{
 				"name": "b'QUIMICA ANALITICA'",
 				"size": 127
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'PSICOLOGIA'",
 			"children": [
@@ -583,8 +571,7 @@
 			{
 				"name": "b'PSICOLOGIA GENERAL'",
 				"size": 9
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS DE LA TECNOLOGIA'",
 			"children": [
@@ -727,8 +714,7 @@
 			{
 				"name": "b'TECNOLOGIA DE FERROCARRILES'",
 				"size": 2
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS DE LA TIERRA Y DEL COSMOS'",
 			"children": [
@@ -795,8 +781,7 @@
 			{
 				"name": "b'PALEONTOLOGIA'",
 				"size": 15
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'PROSPECTIVA'",
 			"children": [
@@ -835,8 +820,7 @@
 			{
 				"name": "b'NUEVOS SISTEMAS ORGANIZACIONALES'",
 				"size": 2
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'PEDAGOGIA'",
 			"children": [
@@ -863,8 +847,7 @@
 			{
 				"name": "b'ORGANIZACION Y PLANIFICACION PEDAGOGICAS'",
 				"size": 42
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'LING\xc3\xad\xc3\xacISTICA'",
 			"children": [
@@ -895,16 +878,14 @@
 			{
 				"name": "b'LING\xc3\xad\xc3\xacISTICA APLICADA'",
 				"size": 107
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'OTROS'",
 			"children": [
 			{
 				"name": "b'OTROS'",
 				"size": 446
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'GEOGRAFIA'",
 			"children": [
@@ -931,8 +912,7 @@
 			{
 				"name": "b'GEOGRAFIA ECONOMICA'",
 				"size": 39
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'MEDICINA Y PATOLOGIA HUMANA'",
 			"children": [
@@ -1023,8 +1003,7 @@
 			{
 				"name": "b'MEDICINA PREVENTIVA'",
 				"size": 2
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS DE LA SALUD'",
 			"children": [
@@ -1047,8 +1026,7 @@
 			{
 				"name": "b'OTROS'",
 				"size": 446
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS DE LA VIDA'",
 			"children": [
@@ -1159,8 +1137,7 @@
 			{
 				"name": "b'FISIOLOGIA HUMANA'",
 				"size": 130
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS AGRONOMICAS Y VETERINARIAS'",
 			"children": [
@@ -1215,8 +1192,7 @@
 			{
 				"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE CIENCIAS AGRONOMICAS Y VETERINARIAS'",
 				"size": 312
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'CIENCIAS JURIDICAS Y DERECHO'",
 			"children": [
@@ -1251,8 +1227,7 @@
 			{
 				"name": "b'TEORIAS Y METODOS JURIDICOS GENERALES'",
 				"size": 61
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'FILOSOFIA'",
 			"children": [
@@ -1295,8 +1270,7 @@
 			{
 				"name": "b'ANTROPOLOGIA FILOSOFICA'",
 				"size": 31
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'HISTORIA'",
 			"children": [
@@ -1331,8 +1305,7 @@
 			{
 				"name": "b'HISTORIA DE LAS EPOCAS'",
 				"size": 59
-			}			]
-		},
+			},			]},
 		{
 			"name": "b'ASTRONOMIA Y ASTROFISICA'",
 			"children": [
@@ -1367,6 +1340,5 @@
 			{
 				"name": "b'ASTRONOMIA OPTICA'",
 				"size": 37
-			}			]
-		}	]
+			},			]},	]
 }
