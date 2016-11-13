@@ -4,7 +4,7 @@
   {
    "name": "b'CIENCIAS DE LA OCUPACION'",
    "children": [
-    {"name": "b'TERAPIA OCUPACIONAL'","size": 2},
+    {"name": "b'TERAPIA OCUPACIONAL'","size": 2}
    ]
   },
   {
@@ -26,7 +26,7 @@
     {"name": "b'ELECTROMAGNETISMO'","size": 33},
     {"name": "b'FISICA DE LOS FLUIDOS'","size": 103},
     {"name": "b'FISICOQUIMICA'","size": 141},
-    {"name": "b'OPTICA'","size": 394},
+    {"name": "b'OPTICA'","size": 394}
    ]
   },
   {
@@ -46,7 +46,7 @@
     {"name": "b'\xc3\xad\xc2\x81LGEBRA'","size": 75},
     {"name": "b'TEORIA DE LOS NUMEROS'","size": 23},
     {"name": "b'TOPOLOGIA'","size": 86},
-    {"name": "b'SISTEMAS'","size": 82},
+    {"name": "b'SISTEMAS'","size": 82}
    ]
   },
   {
@@ -61,7 +61,7 @@
     {"name": "b'CARACTERISTICAS DE LAS POBLACIONES'","size": 38},
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE DEMOGRAFIA'","size": 17},
     {"name": "b'FECUNDIDAD'","size": 6},
-    {"name": "b'DEMOGRAFIA GENERAL'","size": 9},
+    {"name": "b'DEMOGRAFIA GENERAL'","size": 9}
    ]
   },
   {
@@ -71,7 +71,7 @@
     {"name": "b'OTROS'","size": 446},
     {"name": "b'ARQUITECTURA'","size": 168},
     {"name": "b'TEORIA, ANALISIS Y CRITICA DE LAS BELLAS ARTES'","size": 84},
-    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ARTES Y LETRAS'","size": 60},
+    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ARTES Y LETRAS'","size": 60}
    ]
   },
   {
@@ -91,7 +91,7 @@
     {"name": "b'HUMANIDADES'","size": 15},
     {"name": "b'COMUNICACION SOCIAL'","size": 113},
     {"name": "b'CULTURA F\xc3\xad\xc2\x8dSICA'","size": 9},
-    {"name": "b'SOCIOLOGIA CULTURAL'","size": 110},
+    {"name": "b'SOCIOLOGIA CULTURAL'","size": 110}
    ]
   },
   {
@@ -99,7 +99,7 @@
    "children": [
     {"name": "b'LOGICA DEDUCTIVA'","size": 6},
     {"name": "b'APLICACIONES DE LA LOGICA'","size": 5},
-    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE LOGICA'","size": 3},
+    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE LOGICA'","size": 3}
    ]
   },
   {
@@ -119,7 +119,7 @@
     {"name": "b'ORGANIZACION DE LA INDUSTRIA Y POLITICA ECONOMICA PUBLICA'","size": 42},
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ECONOMIA'","size": 158},
     {"name": "b'TEORIA ECONOMICA'","size": 194},
-    {"name": "b'SISTEMAS ECONOMICOS'","size": 11},
+    {"name": "b'SISTEMAS ECONOMICOS'","size": 11}
    ]
   },
   {
@@ -130,7 +130,7 @@
     {"name": "b'ANTROPOLOGIA CULTURAL'","size": 107},
     {"name": "b'OTROS'","size": 446},
     {"name": "b'ANTROPOLOGIA ESTRUCTURAL'","size": 3},
-    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ANTROPOLOGIA'","size": 163},
+    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ANTROPOLOGIA'","size": 163}
    ]
   },
   {
@@ -148,7 +148,7 @@
     {"name": "b'OPINION PUBLICA'","size": 24},
     {"name": "b'SISTEMAS POLITICOS'","size": 24},
     {"name": "b'ADMINISTRACION PUBLICA'","size": 112},
-    {"name": "b'RELACIONES INTERNACIONALES'","size": 134},
+    {"name": "b'RELACIONES INTERNACIONALES'","size": 134}
    ]
   },
   {
@@ -159,7 +159,7 @@
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ETICA'","size": 21},
     {"name": "b'ETICA PROSPECTIVA'","size": 5},
     {"name": "b'ETICA DE GRUPO'","size": 6},
-    {"name": "b'ETICA CLASICA'","size": 3},
+    {"name": "b'ETICA CLASICA'","size": 3}
    ]
   },
   {
@@ -176,7 +176,7 @@
     {"name": "b'BIOQUIMICA'","size": 481},
     {"name": "b'FARMACOBIOLOGIA'","size": 60},
     {"name": "b'QUIMICA DE LAS MACROMOLECULAS'","size": 171},
-    {"name": "b'QUIMICA ANALITICA'","size": 127},
+    {"name": "b'QUIMICA ANALITICA'","size": 127}
    ]
   },
   {
@@ -196,7 +196,7 @@
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE PSICOLOGIA'","size": 100},
     {"name": "b'PSICOLOGIA DEL TRABAJO Y DEL PERSONAL'","size": 19},
     {"name": "b'PSICOFARMACOLOGIA'","size": 15},
-    {"name": "b'PSICOLOGIA GENERAL'","size": 9},
+    {"name": "b'PSICOLOGIA GENERAL'","size": 9}
    ]
   },
   {
@@ -236,7 +236,7 @@
     {"name": "b'TECNOLOGIA DE MINAS'","size": 9},
     {"name": "b'TECNOLOGIA DE LA CONSTRUCCION'","size": 95},
     {"name": "b'TECNOLOGIA DE LOS PRODUCTOS METALICOS'","size": 5},
-    {"name": "b'TECNOLOGIA DE FERROCARRILES'","size": 2},
+    {"name": "b'TECNOLOGIA DE FERROCARRILES'","size": 2}
    ]
   },
   {
@@ -257,7 +257,7 @@
     {"name": "b'CIENCIAS DEL COSMOS'","size": 7},
     {"name": "b'BIOLOGIA ANIMAL Y ZOOLOGIA'","size": 513},
     {"name": "b'GEOLOGIA'","size": 159},
-    {"name": "b'PALEONTOLOGIA'","size": 15},
+    {"name": "b'PALEONTOLOGIA'","size": 15}
    ]
   },
   {
@@ -271,7 +271,7 @@
     {"name": "b'PLANEACION Y DISE\xc3\xad\xc3\xafO DE ESTRATEGIAS'","size": 7},
     {"name": "b'ANALISIS DE RIESGOS'","size": 4},
     {"name": "b'FUTURO DE LOS CONOCIMIENTOS Y LAS NUEVAS TECNOLOGIAS'","size": 3},
-    {"name": "b'NUEVOS SISTEMAS ORGANIZACIONALES'","size": 2},
+    {"name": "b'NUEVOS SISTEMAS ORGANIZACIONALES'","size": 2}
    ]
   },
   {
@@ -282,7 +282,7 @@
     {"name": "b'OTROS'","size": 446},
     {"name": "b'TEORIAS Y METODOS PEDAGOGICOS GENERALES'","size": 135},
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE PEDAGOGIA'","size": 260},
-    {"name": "b'ORGANIZACION Y PLANIFICACION PEDAGOGICAS'","size": 42},
+    {"name": "b'ORGANIZACION Y PLANIFICACION PEDAGOGICAS'","size": 42}
    ]
   },
   {
@@ -294,13 +294,13 @@
     {"name": "b'OTROS'","size": 446},
     {"name": "b'POLITICAS DEL LENGUAJE'","size": 7},
     {"name": "b'LING\xc3\xad\xc3\xacISTICA DIACRONICA'","size": 11},
-    {"name": "b'LING\xc3\xad\xc3\xacISTICA APLICADA'","size": 107},
+    {"name": "b'LING\xc3\xad\xc3\xacISTICA APLICADA'","size": 107}
    ]
   },
   {
    "name": "b'OTROS'",
    "children": [
-    {"name": "b'OTROS'","size": 446},
+    {"name": "b'OTROS'","size": 446}
    ]
   },
   {
@@ -311,7 +311,7 @@
     {"name": "b'GEOGRAFIA HUMANA'","size": 68},
     {"name": "b'OTROS'","size": 446},
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE GEOGRAFIA'","size": 51},
-    {"name": "b'GEOGRAFIA ECONOMICA'","size": 39},
+    {"name": "b'GEOGRAFIA ECONOMICA'","size": 39}
    ]
   },
   {
@@ -338,7 +338,7 @@
     {"name": "b'MEDICINA CLINICA'","size": 214},
     {"name": "b'TOXICOLOGIA'","size": 59},
     {"name": "b'PSIQUIATRIA'","size": 29},
-    {"name": "b'MEDICINA PREVENTIVA'","size": 2},
+    {"name": "b'MEDICINA PREVENTIVA'","size": 2}
    ]
   },
   {
@@ -348,7 +348,7 @@
     {"name": "b'MICROBIOLOGIA'","size": 362},
     {"name": "b'SALUD P\xc3\xad_BLICA'","size": 213},
     {"name": "b'INVESTIGACI\xc3\xad\xc3\xb1N EN SALUD'","size": 805},
-    {"name": "b'OTROS'","size": 446},
+    {"name": "b'OTROS'","size": 446}
    ]
   },
   {
@@ -380,7 +380,7 @@
     {"name": "b'MEDICINA CLINICA'","size": 214},
     {"name": "b'EVOLUCION'","size": 91},
     {"name": "b'ENTOMOLOGIA GENERAL'","size": 103},
-    {"name": "b'FISIOLOGIA HUMANA'","size": 130},
+    {"name": "b'FISIOLOGIA HUMANA'","size": 130}
    ]
   },
   {
@@ -398,7 +398,7 @@
     {"name": "b'INVESTIGACI\xc3\xad\xc3\xb1N EN SALUD'","size": 805},
     {"name": "b'PECES Y ANIMALES SALVAJES'","size": 151},
     {"name": "b'CIENCIAS VETERINARIAS'","size": 459},
-    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE CIENCIAS AGRONOMICAS Y VETERINARIAS'","size": 312},
+    {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE CIENCIAS AGRONOMICAS Y VETERINARIAS'","size": 312}
    ]
   },
   {
@@ -411,7 +411,7 @@
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE BIOLOGIA'","size": 388},
     {"name": "b'OTROS'","size": 446},
     {"name": "b'ORGANIZACION PENAL'","size": 24},
-    {"name": "b'TEORIAS Y METODOS JURIDICOS GENERALES'","size": 61},
+    {"name": "b'TEORIAS Y METODOS JURIDICOS GENERALES'","size": 61}
    ]
   },
   {
@@ -426,7 +426,7 @@
     {"name": "b'FILOSOFIA DE LA CIENCIA'","size": 49},
     {"name": "b'FILOSOFIA DE LOS CONOCIMIENTOS'","size": 28},
     {"name": "b'FILOSOFIA SOCIAL'","size": 89},
-    {"name": "b'ANTROPOLOGIA FILOSOFICA'","size": 31},
+    {"name": "b'ANTROPOLOGIA FILOSOFICA'","size": 31}
    ]
   },
   {
@@ -439,7 +439,7 @@
     {"name": "b'OTROS'","size": 446},
     {"name": "b'BIOGRAFIA'","size": 3},
     {"name": "b'HISTORIA DE LOS PAISES'","size": 58},
-    {"name": "b'HISTORIA DE LAS EPOCAS'","size": 59},
+    {"name": "b'HISTORIA DE LAS EPOCAS'","size": 59}
    ]
   },
   {
@@ -452,7 +452,8 @@
     {"name": "b'OTRAS ESPECIALIDADES EN MATERIA DE ASTRONOMIA'","size": 95},
     {"name": "b'COSMOLOGIA Y COSMOGONIA'","size": 80},
     {"name": "b'RADIOASTRONOMIA'","size": 24},
-    {"name": "b'ASTRONOMIA OPTICA'","size": 37},
+    {"name": "b'ASTRONOMIA OPTICA'","size": 37}
    ]
-  }, ]
+  }
+ ]
 }
